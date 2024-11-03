@@ -39,12 +39,12 @@ A web application to manage flight records, including creating, editing, deletin
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/flight-management-system.git
+   git clone https://github.com/imoeadel/flights-app.git
    ```
 2. **Install dependencies**:
 
    ```bash
-   cd flight-management-system
+   cd flights-app
    npm install
   
 3. **Run the Server**:
