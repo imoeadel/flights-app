@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="43" viewBox="0 0 46 43">
+  <g id="Group_11121" data-name="Group 11121" transform="translate(-1307 -379)">
+    <rect id="Rectangle_5882" data-name="Rectangle 5882" width="46" height="43" rx="21.5" transform="translate(1307 379)" fill="gray" opacity="0.08"/>
+    <g id="close_2" data-name="close 2" transform="translate(1320.8 391.633)">
+      <path id="close_2_Background_Mask_" data-name="close 2 (Background/Mask)" d="M0,0H17V17H0Z" transform="translate(0.2 0.367)" fill="none"/>
+      <path id="Vector" d="M9.416,6.5,12.7,3.217a1.034,1.034,0,0,0,0-1.459L11.238.3A1.035,1.035,0,0,0,9.78.3L6.5,3.583,3.216.3A1.036,1.036,0,0,0,1.758.3L.3,1.759a1.034,1.034,0,0,0,0,1.459L3.583,6.5.3,9.783a1.034,1.034,0,0,0,0,1.458L1.759,12.7a1.034,1.034,0,0,0,1.458,0L6.5,9.418,9.781,12.7a1.036,1.036,0,0,0,1.46,0L12.7,11.242a1.034,1.034,0,0,0,0-1.458Z" transform="translate(3.2 2.367)" fill="gray"/>
+    </g>
+  </g>
+</svg>

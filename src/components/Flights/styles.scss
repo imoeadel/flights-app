@@ -1,0 +1,15 @@
+
+.tableWithActions {
+  width: 100%;
+  height: 100%;
+  .ant-pagination {
+    display: flex;
+    justify-content: flex-end;
+    gap: 7px;
+    /* a {
+      width: 30px;
+    } */
+  }
+}
+
+
